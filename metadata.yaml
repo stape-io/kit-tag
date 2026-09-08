@@ -1,0 +1,5 @@
+homepage: https://stape.io/
+documentation: https://github.com/stape-io/kit-tag
+versions:
+  - sha: <INITIAL-COMMIT-HASH>
+    changeNotes: Initial release.
