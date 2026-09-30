@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Kit Tag for Google Tag Manager v3",
+  "displayName": "Kit (ConvertKit)",
   "categories": [
     "ANALYTICS",
     "CONVERSIONS",
@@ -24,7 +24,7 @@ ___INFO___
     "displayName": "stape.io",
     "thumbnail": "data:image/png;base64,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\u003d\u003d"
   },
-  "description": "Creates or updates Subscribers via Kit\u0027s Subscribers API.",
+  "description": "Creates, updates or unsubscribes Subscribers via Kit\u0027s (formerly ConvertKit) Subscribers API.",
   "containerContexts": [
     "SERVER"
   ]
@@ -52,11 +52,15 @@ ___TEMPLATE_PARAMETERS___
           {
             "value": "updateSubscriber",
             "displayValue": "Update Subscriber"
+          },
+          {
+            "value": "unsubscribeSubscriber",
+            "displayValue": "Unsubscribe Subscriber"
           }
         ],
         "simpleValueType": true,
         "defaultValue": "createSubscriber",
-        "help": "\u003cb\u003eCreate Subscriber\u003c/b\u003e creates a new subscriber, or upserts an existing one by email address, via Kit\u0027s Subscribers API.\u003cbr/\u003e\u003cb\u003eUpdate Subscriber\u003c/b\u003e looks an existing subscriber up by email, then updates their name and custom fields."
+        "help": "\u003cb\u003eCreate Subscriber\u003c/b\u003e creates a new subscriber, or upserts an existing one by email address, via Kit\u0027s Subscribers API.\u003cbr/\u003e\u003cb\u003eUpdate Subscriber\u003c/b\u003e looks an existing subscriber up by email, then updates their name and custom fields.\u003cbr/\u003e\u003cb\u003eUnsubscribe Subscriber\u003c/b\u003e looks an existing subscriber up by email, then unsubscribes them from all future emails, moving them to the \u003ci\u003ecancelled\u003c/i\u003e state. Kit treats this as consent-revoking and effectively permanent, so only re-subscribe someone with their explicit permission."
       },
       {
         "type": "TEXT",
@@ -101,22 +105,66 @@ ___TEMPLATE_PARAMETERS___
         "simpleValueType": true,
         "valueValidators": [
           {
-            "type": "NON_EMPTY"
+            "type": "NON_EMPTY",
+            "enablingConditions": [
+              {
+                "paramName": "autoMapEventData",
+                "paramValue": true,
+                "type": "NOT_EQUALS"
+              }
+            ]
           }
         ],
-        "help": "Required. The subscriber\u0027s email address.\u003cbr/\u003e\u003cbr/\u003eFalls back to \u003ci\u003eeventData.email\u003c/i\u003e, then \u003ci\u003eeventData.user_data.email\u003c/i\u003e, then \u003ci\u003eeventData.user_data.email_address\u003c/i\u003e, when left empty and \u003ci\u003eAutomap from Event Data\u003c/i\u003e is enabled."
+        "help": "Required. The subscriber\u0027s email address.\u003cbr/\u003e\u003cbr/\u003eWhen left empty and \u003ci\u003eAutomap from Event Data\u003c/i\u003e is enabled, falls back to:\n\u003cul\u003e\n\u003cli\u003e\u003ci\u003eeventData.email\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003e\u003ci\u003eeventData.user_data.email\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003e\u003ci\u003eeventData.user_data.email_address\u003c/i\u003e\u003c/li\u003e\n\u003c/ul\u003e"
+      },
+      {
+        "type": "SELECT",
+        "name": "subscriberLookupStatus",
+        "displayName": "Subscriber Lookup Status",
+        "simpleValueType": true,
+        "selectItems": [
+          {
+            "value": "all",
+            "displayValue": "All"
+          },
+          {
+            "value": "active",
+            "displayValue": "Active"
+          }
+        ],
+        "defaultValue": "all",
+        "help": "Which subscriber statuses to search when looking the subscriber up by email address.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAll\u003c/b\u003e also finds cancelled, bounced, complained and inactive subscribers.\u003cbr/\u003e\u003cb\u003eActive\u003c/b\u003e only finds active subscribers, so the tag fails for anyone else.",
+        "enablingConditions": [
+          {
+            "paramName": "eventType",
+            "paramValue": "updateSubscriber",
+            "type": "EQUALS"
+          },
+          {
+            "paramName": "eventType",
+            "paramValue": "unsubscribeSubscriber",
+            "type": "EQUALS"
+          }
+        ]
       },
       {
         "type": "TEXT",
         "name": "firstName",
         "displayName": "First Name (Optional)",
         "simpleValueType": true,
-        "help": ""
+        "help": "",
+        "enablingConditions": [
+          {
+            "paramName": "eventType",
+            "paramValue": "unsubscribeSubscriber",
+            "type": "NOT_EQUALS"
+          }
+        ]
       },
       {
         "type": "SELECT",
         "name": "subscriberState",
-        "displayName": "Subscriber State (Optional)",
+        "displayName": "Subscriber State",
         "simpleValueType": true,
         "selectItems": [
           {
@@ -140,14 +188,15 @@ ___TEMPLATE_PARAMETERS___
             "displayValue": "Inactive"
           }
         ],
-        "help": "Leave unset to default to \"active\". Only applies to Create Subscriber — Kit does not support changing the state of an already existing subscriber.",
+        "help": "Only applies to Create Subscriber — Kit does not support changing the state of an already existing subscriber.",
         "enablingConditions": [
           {
             "paramName": "eventType",
             "paramValue": "createSubscriber",
             "type": "EQUALS"
           }
-        ]
+        ],
+        "defaultValue": "active"
       },
       {
         "type": "SIMPLE_TABLE",
@@ -163,17 +212,31 @@ ___TEMPLATE_PARAMETERS___
               {
                 "type": "NON_EMPTY"
               }
-            ]
+            ],
+            "isUnique": true
           },
           {
             "defaultValue": "",
             "displayName": "Value",
             "name": "value",
-            "type": "TEXT"
+            "type": "TEXT",
+            "isUnique": false,
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ]
           }
         ],
         "newRowButtonText": "Add custom field",
-        "help": "Kit identifies Custom Fields by their \"key\", not their label. Find each field\u0027s key by accessing a subscriber Custom Fields from the Subscribers list in the Kit UI. Unknown keys are ignored by Kit."
+        "help": "Kit identifies Custom Fields by their \"key\", not their label. Find each field\u0027s key by accessing a subscriber Custom Fields from the Subscribers list in the Kit UI. Unknown keys are ignored by Kit.",
+        "enablingConditions": [
+          {
+            "paramName": "eventType",
+            "paramValue": "unsubscribeSubscriber",
+            "type": "NOT_EQUALS"
+          }
+        ]
       }
     ]
   },
@@ -216,6 +279,8 @@ const logToConsole = require('logToConsole');
 const makeString = require('makeString');
 const Promise = require('Promise');
 const sendHttpRequest = require('sendHttpRequest');
+const sha256Sync = require('sha256Sync');
+const templateDataStorage = require('templateDataStorage');
 
 /*==============================================================================
 ==============================================================================*/
@@ -224,19 +289,16 @@ const eventData = getAllEventData();
 
 if (shouldExitEarly(data, eventData)) return;
 
-if (data.eventType === 'createSubscriber') {
-  const failed = createSubscriber(eventData);
-  if (!failed && data.useOptimisticScenario) {
-    return data.gtmOnSuccess();
-  }
-} else if (data.eventType === 'updateSubscriber') {
-  const failed = updateSubscriber(eventData);
-  if (!failed && data.useOptimisticScenario) {
-    return data.gtmOnSuccess();
-  }
-} else {
-  return data.gtmOnSuccess();
-}
+const eventHandlers = {
+  createSubscriber: createSubscriber,
+  updateSubscriber: updateSubscriber,
+  unsubscribeSubscriber: unsubscribeSubscriber
+};
+const eventHandler = eventHandlers[data.eventType];
+if (!eventHandler) return data.gtmOnSuccess();
+
+const failed = eventHandler(eventData);
+if (!failed && data.useOptimisticScenario) return data.gtmOnSuccess();
 
 /*==============================================================================
   Vendor related functions
@@ -254,25 +316,42 @@ function updateSubscriber(eventData) {
   const subscriberData = buildSubscriberData(eventData);
   if (!subscriberData) return true;
 
-  getSubscriberId(subscriberData.email_address).then((subscriberId) => {
+  const email = subscriberData.email_address;
+  getSubscriberId(email).then((subscriberId) => {
     if (!subscriberId) return;
-    performApiCall('/subscribers/' + subscriberId, 'PUT', subscriberData);
+    performApiCall('/subscribers/' + subscriberId, 'PUT', subscriberData, email);
   });
   return false;
 }
 
-function buildSubscriberData(eventData) {
+function unsubscribeSubscriber(eventData) {
+  const email = getEmail(eventData);
+  if (!email) return true;
+
+  getSubscriberId(email).then((subscriberId) => {
+    if (!subscriberId) return;
+    performApiCall('/subscribers/' + subscriberId + '/unsubscribe', 'POST', {}, email);
+  });
+  return false;
+}
+
+function getEmail(eventData) {
   const eventDataUserData = eventData.user_data || {};
-  const autoMap = data.autoMapEventData;
   const email =
     data.emailAddress ||
-    (autoMap
+    (data.autoMapEventData
       ? eventData.email || eventDataUserData.email || eventDataUserData.email_address
       : undefined);
 
   if (!requireValue(email, 'emailAddress', '🛑 [ERROR] Subscriber was not sent.')) return null;
+  return makeString(email);
+}
 
-  const subscriberData = { email_address: makeString(email) };
+function buildSubscriberData(eventData) {
+  const email = getEmail(eventData);
+  if (!email) return null;
+
+  const subscriberData = { email_address: email };
   if (isValidValue(data.firstName)) subscriberData.first_name = makeString(data.firstName);
 
   if (data.eventType === 'createSubscriber' && isValidValue(data.subscriberState)) {
@@ -295,39 +374,53 @@ function mapCustomFields() {
 }
 
 function getSubscriberId(email) {
-  return apiRequest('/subscribers?email_address=' + enc(email), 'GET')
+  const status = getLookupStatus();
+  const cacheKey = getSubscriberIdCacheKey(email, status);
+  const cachedSubscriberId = templateDataStorage.getItemCopy(cacheKey);
+  if (cachedSubscriberId) return Promise.create((resolve) => resolve(cachedSubscriberId));
+
+  return apiRequest('/subscribers?email_address=' + enc(email) + '&status=' + status, 'GET')
     .then((result) => {
+      if (!isSuccessStatus(result.statusCode)) return handleFailure();
+
       const parsedBody = JSON.parse(result.body || '{}');
       const subscribers = (parsedBody && parsedBody.subscribers) || [];
       const subscriberId = subscribers.length ? subscribers[0].id : undefined;
+      if (!isValidValue(subscriberId)) return handleFailure();
 
-      if (!isValidValue(subscriberId)) {
-        if (!data.useOptimisticScenario) data.gtmOnFailure();
-        return undefined;
-      }
+      templateDataStorage.setItemCopy(cacheKey, subscriberId);
       return subscriberId;
     })
-    .catch(() => {
-      if (!data.useOptimisticScenario) data.gtmOnFailure();
-      return undefined;
-    });
+    .catch(handleFailure);
 }
 
-function performApiCall(path, method, body) {
+function getLookupStatus() {
+  // Kit only returns active subscribers unless "all" is requested explicitly.
+  return data.subscriberLookupStatus === 'active' ? 'active' : 'all';
+}
+
+function getSubscriberIdCacheKey(email, status) {
+  return sha256Sync('kit_subscriber_id_' + data.apiKey + '_' + status + '_' + email.toLowerCase());
+}
+
+function performApiCall(path, method, body, email) {
   apiRequest(path, method, body)
     .then((result) => {
       const parsedBody = JSON.parse(result.body || '{}');
-      const success =
-        result.statusCode >= 200 && result.statusCode < 400 && !(parsedBody && parsedBody.errors);
+      const success = isSuccessStatus(result.statusCode) && !(parsedBody && parsedBody.errors);
 
-      if (!data.useOptimisticScenario) {
-        if (success) data.gtmOnSuccess();
-        else data.gtmOnFailure();
+      // The subscriber was deleted in Kit, so the cached ID is stale.
+      if (result.statusCode === 404 && email) {
+        templateDataStorage.removeItem(getSubscriberIdCacheKey(email, getLookupStatus()));
+      }
+
+      if (success) {
+        if (!data.useOptimisticScenario) data.gtmOnSuccess();
+      } else {
+        handleFailure();
       }
     })
-    .catch(() => {
-      if (!data.useOptimisticScenario) data.gtmOnFailure();
-    });
+    .catch(handleFailure);
 }
 
 function apiRequest(path, method, body) {
@@ -356,6 +449,15 @@ function requireValue(value, paramName, failMessage) {
   });
   data.gtmOnFailure();
   return false;
+}
+
+function isSuccessStatus(statusCode) {
+  return statusCode >= 200 && statusCode < 300;
+}
+
+function handleFailure() {
+  if (!data.useOptimisticScenario) data.gtmOnFailure();
+  return undefined;
 }
 
 function isValidValue(value) {
@@ -411,17 +513,62 @@ ___SERVER_PERMISSIONS___
       },
       "param": [
         {
+          "key": "headerWhitelist",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "headerName"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "referer"
+                  }
+                ]
+              },
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "headerName"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "trace-id"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "headersAllowed",
+          "value": {
+            "type": 8,
+            "boolean": true
+          }
+        },
+        {
           "key": "requestAccess",
           "value": {
             "type": 1,
-            "string": "any"
+            "string": "specific"
           }
         },
         {
           "key": "headerAccess",
           "value": {
             "type": 1,
-            "string": "any"
+            "string": "specific"
           }
         },
         {
@@ -510,6 +657,16 @@ ___SERVER_PERMISSIONS___
     },
     "clientAnnotations": {
       "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "access_template_storage",
+        "versionId": "1"
+      },
+      "param": []
     },
     "isRequired": true
   }
@@ -766,7 +923,7 @@ scenarios:
     mock('sendHttpRequest', (url, options, body) => {
       if (options.method === 'GET') {
         lookupCalled = true;
-        assertThat(url).isEqualTo('https://api.kit.com/v4/subscribers?email_address=subscriber%40example.com');
+        assertThat(url).isEqualTo('https://api.kit.com/v4/subscribers?email_address=subscriber%40example.com&status=all');
         assertThat(options.headers['X-Kit-Api-Key']).isEqualTo('testApiKey');
         return Promise.create((resolve) =>
           resolve({statusCode: 200, body: JSON.stringify({subscribers: [{id: 382, email_address: 'subscriber@example.com'}]})})
@@ -873,6 +1030,452 @@ scenarios:
     callLater(() => {
       assertApi('gtmOnFailure').wasNotCalled();
     });
+- name: '[Create Subscriber] Treats 200, 201 and 202 responses as success'
+  code: |-
+    [200, 201, 202].forEach((statusCode) => {
+      mock('sendHttpRequest', (url) => respond(statusCode, {}));
+
+      runCode(mockData);
+
+      callLater(() => {
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+    });
+- name: '[Create Subscriber] Calls gtmOnFailure on a 3xx response'
+  code: |-
+    mock('sendHttpRequest', (url) => respond(302, {}));
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Update Subscriber] Fails without a PUT when the lookup returns a non-2xx
+    status, even if the body lists a subscriber'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    let requestCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      requestCount++;
+      assertThat(options.method).isEqualTo('GET');
+      return respond(401, {subscribers: [{id: 382}], errors: ['The access token is invalid']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(requestCount).isEqualTo(1);
+      assertThat(Object.keys(cacheStore).length).isEqualTo(0);
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Update Subscriber] Calls gtmOnFailure when the PUT returns 404'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') return respond(200, {subscribers: [{id: 382}]});
+      return respond(404, {errors: ['Not Found']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Update Subscriber] Caches the subscriber ID after a successful lookup and
+    reuses it on the next event'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    let lookupCount = 0;
+    let updateCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        lookupCount++;
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      updateCount++;
+      assertThat(url).isEqualTo('https://api.kit.com/v4/subscribers/382');
+      return respond(200, {});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      runCode(mockData);
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(1);
+        assertThat(updateCount).isEqualTo(2);
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+    });
+- name: '[Update Subscriber] Does not share cached subscriber IDs between different
+    API keys'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    let lookupCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        lookupCount++;
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      return respond(200, {});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      runCode(createMockData({eventType: 'updateSubscriber', apiKey: 'otherApiKey'}));
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(2);
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+    });
+- name: '[Update Subscriber] Does not cache a lookup that finds no subscriber'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    let lookupCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      lookupCount++;
+      return respond(200, {subscribers: []});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      runCode(mockData);
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(2);
+        assertThat(Object.keys(cacheStore).length).isEqualTo(0);
+        assertApi('gtmOnSuccess').wasNotCalled();
+        assertApi('gtmOnFailure').wasCalled();
+      });
+    });
+- name: '[Update Subscriber] Evicts the cached subscriber ID when the PUT returns
+    404 so the next event looks it up again'
+  code: |-
+    mockData.eventType = 'updateSubscriber';
+
+    let lookupCount = 0;
+    let updateCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        lookupCount++;
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      updateCount++;
+      return updateCount === 1 ? respond(200, {}) : respond(404, {errors: ['Not Found']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(Object.keys(cacheStore).length).isEqualTo(1);
+      runCode(mockData);
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(1);
+        assertThat(updateCount).isEqualTo(2);
+        assertThat(Object.keys(cacheStore).length).isEqualTo(0);
+        assertApi('gtmOnFailure').wasCalled();
+      });
+    });
+- name: '[Unsubscribe Subscriber] Fails when the email address cannot be resolved,
+    without making any API call'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+    mockData.emailAddress = undefined;
+    mock('getAllEventData', () => ({page_location: 'https://example.com/signup'}));
+
+    runCode(mockData);
+
+    assertApi('sendHttpRequest').wasNotCalled();
+    assertApi('gtmOnSuccess').wasNotCalled();
+    assertApi('gtmOnFailure').wasCalled();
+- name: '[Unsubscribe Subscriber] Falls back to Event Data email fields when emailAddress
+    is missing and Automap from Event Data is enabled'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+    mockData.emailAddress = undefined;
+
+    mock('getAllEventData', () => ({
+      page_location: 'https://example.com/signup',
+      user_data: {email_address: 'userdata-subscriber@example.com'}
+    }));
+
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        assertThat(url).isEqualTo(
+          'https://api.kit.com/v4/subscribers?email_address=userdata-subscriber%40example.com&status=all'
+        );
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      return respond(204);
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertApi('gtmOnSuccess').wasCalled();
+      assertApi('gtmOnFailure').wasNotCalled();
+    });
+- name: '[Unsubscribe Subscriber] Looks the subscriber up including non-active states,
+    then POSTs an empty JSON object to the unsubscribe endpoint'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+    mockData.firstName = 'Alice';
+    mockData.subscriberState = 'active';
+    mockData.customFields = [{key: 'last_name', value: 'Lamarr'}];
+
+    let lookupCalled = false;
+    let unsubscribeCalled = false;
+
+    mock('sendHttpRequest', (url, options, body) => {
+      assertThat(options.headers['X-Kit-Api-Key']).isEqualTo('testApiKey');
+      if (options.method === 'GET') {
+        lookupCalled = true;
+        assertThat(url).isEqualTo(
+          'https://api.kit.com/v4/subscribers?email_address=subscriber%40example.com&status=all'
+        );
+        return respond(200, {subscribers: [{id: 382, email_address: 'subscriber@example.com'}]});
+      }
+
+      unsubscribeCalled = true;
+      assertThat(url).isEqualTo('https://api.kit.com/v4/subscribers/382/unsubscribe');
+      assertThat(options.method).isEqualTo('POST');
+      assertThat(body).isEqualTo('{}');
+      return respond(204);
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(lookupCalled).isEqualTo(true);
+      assertThat(unsubscribeCalled).isEqualTo(true);
+      assertApi('gtmOnSuccess').wasCalled();
+      assertApi('gtmOnFailure').wasNotCalled();
+    });
+- name: '[Unsubscribe Subscriber] Fails and never POSTs when no matching subscriber
+    is found'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    let requestCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      requestCount++;
+      assertThat(options.method).isEqualTo('GET');
+      return respond(200, {subscribers: []});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(requestCount).isEqualTo(1);
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Unsubscribe Subscriber] Fails when the lookup request promise rejects'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    let requestCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      requestCount++;
+      assertThat(options.method).isEqualTo('GET');
+      return Promise.create((resolve, reject) => reject({reason: 'failed'}));
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(requestCount).isEqualTo(1);
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Unsubscribe Subscriber] Fails without a POST when the lookup returns a non-2xx
+    status'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    let requestCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      requestCount++;
+      assertThat(options.method).isEqualTo('GET');
+      return respond(401, {errors: ['The access token is invalid']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(requestCount).isEqualTo(1);
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Unsubscribe Subscriber] Calls gtmOnFailure when the unsubscribe request
+    returns a non-2xx status'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') return respond(200, {subscribers: [{id: 382}]});
+      return respond(401, {errors: ['The access token is invalid']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Unsubscribe Subscriber] Evicts the cached subscriber ID when the unsubscribe
+    request returns 404'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') return respond(200, {subscribers: [{id: 382}]});
+      return respond(404, {errors: ['Not Found']});
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      assertThat(Object.keys(cacheStore).length).isEqualTo(0);
+      assertApi('gtmOnSuccess').wasNotCalled();
+      assertApi('gtmOnFailure').wasCalled();
+    });
+- name: '[Unsubscribe Subscriber] Reuses the cached subscriber ID on the next event'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+
+    let lookupCount = 0;
+    let unsubscribeCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        lookupCount++;
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      unsubscribeCount++;
+      return respond(204);
+    });
+
+    runCode(mockData);
+
+    callLater(() => {
+      runCode(mockData);
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(1);
+        assertThat(unsubscribeCount).isEqualTo(2);
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+    });
+- name: '[Unsubscribe Subscriber] useOptimisticScenario calls gtmOnSuccess immediately
+    regardless of the lookup and unsubscribe outcome'
+  code: |-
+    mockData.eventType = 'unsubscribeSubscriber';
+    mockData.useOptimisticScenario = true;
+
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') return respond(200, {subscribers: [{id: 382}]});
+      return respond(500, {});
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+
+    callLater(() => {
+      assertApi('gtmOnFailure').wasNotCalled();
+    });
+- name: '[Lookup Status] Update and Unsubscribe search only active subscribers when
+    Subscriber Lookup Status is Active'
+  code: |-
+    ['updateSubscriber', 'unsubscribeSubscriber'].forEach((eventType) => {
+      const copyMockData = createMockData({eventType: eventType, subscriberLookupStatus: 'active'});
+
+      let lookupUrl;
+      mock('sendHttpRequest', (url, options) => {
+        if (options.method === 'GET') {
+          lookupUrl = url;
+          return respond(200, {subscribers: [{id: 382}]});
+        }
+        return respond(200, {});
+      });
+
+      runCode(copyMockData);
+
+      callLater(() => {
+        assertThat(lookupUrl).isEqualTo(
+          'https://api.kit.com/v4/subscribers?email_address=subscriber%40example.com&status=active'
+        );
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+      cacheStore = {};
+    });
+- name: '[Lookup Status] Falls back to all statuses when Subscriber Lookup Status
+    is unset or unrecognized'
+  code: |-
+    ['', undefined, 'somethingElse'].forEach((value) => {
+      const copyMockData = createMockData({eventType: 'updateSubscriber', subscriberLookupStatus: value});
+
+      let lookupUrl;
+      mock('sendHttpRequest', (url, options) => {
+        if (options.method === 'GET') {
+          lookupUrl = url;
+          return respond(200, {subscribers: [{id: 382}]});
+        }
+        return respond(200, {});
+      });
+
+      runCode(copyMockData);
+
+      callLater(() => {
+        assertThat(lookupUrl).isEqualTo(
+          'https://api.kit.com/v4/subscribers?email_address=subscriber%40example.com&status=all'
+        );
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+      cacheStore = {};
+    });
+- name: '[Lookup Status] Does not share cached subscriber IDs between different lookup
+    statuses'
+  code: |-
+    let lookupCount = 0;
+    mock('sendHttpRequest', (url, options) => {
+      if (options.method === 'GET') {
+        lookupCount++;
+        return respond(200, {subscribers: [{id: 382}]});
+      }
+      return respond(200, {});
+    });
+
+    runCode(createMockData({eventType: 'updateSubscriber', subscriberLookupStatus: 'all'}));
+
+    callLater(() => {
+      runCode(createMockData({eventType: 'updateSubscriber', subscriberLookupStatus: 'active'}));
+
+      callLater(() => {
+        assertThat(lookupCount).isEqualTo(2);
+        assertApi('gtmOnSuccess').wasCalled();
+        assertApi('gtmOnFailure').wasNotCalled();
+      });
+    });
 setup: |-
   const JSON = require('JSON');
   const Object = require('Object');
@@ -887,6 +1490,22 @@ setup: |-
     });
     return target;
   };
+
+  let cacheStore = {};
+  mockObject('templateDataStorage', {
+    getItemCopy: (key) => cacheStore[key],
+    setItemCopy: (key, value) => {
+      cacheStore[key] = value;
+    },
+    removeItem: (key) => {
+      Object.delete(cacheStore, key);
+    }
+  });
+
+  const respond = (statusCode, body) =>
+    Promise.create((resolve) =>
+      resolve({statusCode: statusCode, body: body === undefined ? '' : JSON.stringify(body)})
+    );
 
   const baseMockData = {
     eventType: 'createSubscriber',
@@ -915,5 +1534,4 @@ ___NOTES___
   - First release
 
 Created on 04/08/2026, 13:02:58
-
 
