@@ -1,5 +1,5 @@
 homepage: https://stape.io/
 documentation: https://github.com/stape-io/kit-tag
 versions:
-  - sha: e57d64089e9a01630eefc569e91dc7ff1b15af1c
+  - sha: b1e1e16f35e1db9030ec48cf032e0a3cbb634550
     changeNotes: Initial release.
