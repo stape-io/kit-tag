@@ -50,3 +50,6 @@ Kit identifies Custom Fields by their **key**, not their label. Find each field'
 ## Open Source
 
 The **Kit tag for GTM Server Side** is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🔴 Not listed
