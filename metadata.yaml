@@ -1,5 +1,7 @@
 homepage: https://stape.io/
 documentation: https://github.com/stape-io/kit-tag
 versions:
+  - sha: d992042cdb8b98a6472f19f19d1fa3a6c1c0e732
+    changeNotes: Template rename.
   - sha: b1e1e16f35e1db9030ec48cf032e0a3cbb634550
     changeNotes: Initial release.
